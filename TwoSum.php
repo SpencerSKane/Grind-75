@@ -1,3 +1,5 @@
+https://leetcode.com/problems/two-sum/submissions/1287535615/
+
 class TwoSum {
     //"O(n) with PHP-specific performance explanation" - mamyta
     //Time complexity: O(n)
