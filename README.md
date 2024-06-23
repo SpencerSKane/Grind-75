@@ -2,4 +2,4 @@
 Working through the Grind 75 leetcode map
 https://www.techinterviewhandbook.org/grind75
 
-Currently working with: PHP, C, C++, C#, Python
+Currently working with: C, C++, C#, PHP, Python
